@@ -1,0 +1,21 @@
+{
+  "name": "fs_blog",
+  "version": "1.0.0",
+  "description": "node.js backend for blog",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "bryant volk",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
+    "browser-sync": "^2.18.13",
+    "browserify-middleware": "^7.1.0",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.6",
+    "morgan": "^1.8.2",
+    "nodemon": "^1.11.0"
+  }
+}
