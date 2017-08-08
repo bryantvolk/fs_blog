@@ -64,5 +64,8 @@ a {
   color: #42b983;
   text-decoration: none;
 }
+.redBackground {
+  background-color: red;
+}
 </style>
 
